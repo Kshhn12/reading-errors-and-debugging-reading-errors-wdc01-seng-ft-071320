@@ -1,3 +1,1 @@
-hello_world = "hello world"
-
-puts Hello_world
+String hello_world = "hello world"
